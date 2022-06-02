@@ -1,4 +1,4 @@
-# My-Sokoban
+# My_Sokoban
 Epitech project, Sokoban game with Ncurses lib
 
 Compile with make command
